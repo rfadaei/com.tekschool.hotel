@@ -8,6 +8,9 @@ public class TestClass {
 	@Test
 	public void test() {
 		System.out.println("this class will be pushed to repo");
+		// this is comments from Git Hub account 
+		// These are changes made in Git Repo 
+		// to pull these changes we need to fitch from upstream or use git pull command
 	}
 
 }
