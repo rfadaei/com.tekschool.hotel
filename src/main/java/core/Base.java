@@ -22,8 +22,8 @@ public class Base {
 	public static WebDriver driver;
 	public static Properties properties;
 	public static Logger logger;
-	private String projectPropertyFilePath = ".\\src\\test\\resources\\properties\\ProjectProperty.properties";
-	private String log4JFilePath = ".\\src\\test\\resources\\properties\\log4j.properties";
+	private String projectPropertyFilePath = "./src/test/resources/properties/ProjectProperty.properties";
+	private String log4JFilePath = "./src/test/resources/properties/log4j.properties";
 
 	public Base() {
 

@@ -19,3 +19,10 @@
 2020-11-04 20:04:07,969 [main] INFO logger_File - method name: loginToHotel
 2020-11-04 20:04:08,577 [main] INFO logger_File - Browser Closed
 2020-11-04 20:04:08,586 [main] INFO logger_File - End of Execution
+2020-11-04 22:05:31,231 [main] INFO logger_File - Start of Execution
+2020-11-04 22:05:37,651 [main] INFO logger_File - Browser opened successfully
+2020-11-04 22:05:37,653 [main] INFO logger_File - Test Execution Started
+2020-11-04 22:05:39,757 [main] INFO logger_File - Test was passed successfully
+2020-11-04 22:05:39,758 [main] INFO logger_File - method name: loginToHotel
+2020-11-04 22:05:40,012 [main] INFO logger_File - Browser Closed
+2020-11-04 22:05:40,043 [main] INFO logger_File - End of Execution
