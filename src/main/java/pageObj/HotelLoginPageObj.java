@@ -11,10 +11,10 @@ import core.Base;
 
 public class HotelLoginPageObj extends Base {
 
-	// we are following Page Obj Model Design Pattern with implementing PageFactory
+	// we are following Page Object Model Design Pattern with implementing PageFactory
 	// Class
 	// to implement Page Factory Class we need to create a constructor and use
-	// initElements method to initialize thhis class variables
+	// initElements method to initialize this class variables
 
 	public HotelLoginPageObj() {
 		PageFactory.initElements(driver, this);
