@@ -2,36 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Hotel Website Data Driven Framework" duration-ms="12324" started-at="2020-11-03T02:35:30Z" finished-at="2020-11-03T02:35:43Z">
+  <suite name="Default suite" duration-ms="23" started-at="2020-11-05T02:18:26Z" finished-at="2020-11-05T02:18:26Z">
     <groups>
     </groups>
-    <test name="Login to Hotel Page Dashboard" duration-ms="12324" started-at="2020-11-03T02:35:30Z" finished-at="2020-11-03T02:35:43Z">
-      <class name="tests.LoginTest">
-        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.LoginTest@77a57272]" name="beforeMethod" is-config="true" duration-ms="9947" started-at="2020-11-03T02:35:30Z" finished-at="2020-11-03T02:35:40Z">
+    <test name="Default test" duration-ms="23" started-at="2020-11-05T02:18:26Z" finished-at="2020-11-05T02:18:26Z">
+      <class name="testNG.concepts.TestClass">
+        <test-method status="PASS" signature="test()[pri:0, instance:testNG.concepts.TestClass@7cd62f43]" name="test" duration-ms="6" started-at="2020-11-05T02:18:26Z" finished-at="2020-11-05T02:18:26Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="loginToHotel(java.lang.String, java.lang.String)[pri:0, instance:tests.LoginTest@77a57272]" name="loginToHotel" duration-ms="1739" started-at="2020-11-03T02:35:40Z" finished-at="2020-11-03T02:35:42Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[student@test.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[welcome1]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginToHotel -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.LoginTest@77a57272]" name="afterMethod" is-config="true" duration-ms="610" started-at="2020-11-03T02:35:42Z" finished-at="2020-11-03T02:35:43Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterMethod -->
-      </class> <!-- tests.LoginTest -->
-    </test> <!-- Login to Hotel Page Dashboard -->
-  </suite> <!-- Hotel Website Data Driven Framework -->
+        </test-method> <!-- test -->
+      </class> <!-- testNG.concepts.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
